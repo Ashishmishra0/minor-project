@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Urban Company</title>
+        <title>Household Services</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <HomePage />

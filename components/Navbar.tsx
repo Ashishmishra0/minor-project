@@ -16,8 +16,8 @@ const Navbar = () => {
             placeholder="Enter Location"
           />
         </div>
-        <div className="md:block text-white text-xl font-light absolute left-[55%] md:left-[45%]">
-          <span className="font-semibold">Anurag</span>Company
+        <div className="md:block text-white text-xl font-light absolute left-[50%] md:left-[45%]">
+          <span className="font-semibold">Household</span>Services
         </div>
         <div className="md:flex items-center mt-5 hidden md:mt-auto bg-white rounded md:p-1">
           <SearchIcon
