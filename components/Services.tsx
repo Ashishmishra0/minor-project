@@ -3,8 +3,8 @@ import React from "react";
 const Services = () => {
   return (
     <div>
-      <h1 className="font-semibold md:text-2xl text-lg pl-4 text-gray-50 mb-2 py-3 bg-gray-900">Categories</h1>
-      <div className="grid grid-cols-3 my-2 md:my-4 font-semibold justify-evenly items-center">
+      <h1 className="font-semibold md:text-2xl text-lg pl-4 text-gray-50 py-3 mb-2 bg-gray-900">Categories</h1>
+      <div className="grid grid-cols-3 mb-12 md:my-2  font-semibold justify-evenly items-center">
         <div className="flex flex-col items-center my-4 md:my-12 md:text-base text-sm text-center">
           <img
             src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-beauty-hygiene-vitaliy-gorbachev-flat-vitaly-gorbachev.png"
@@ -38,7 +38,7 @@ const Services = () => {
             src="https://img.icons8.com/fluency/58/000000/easel.png"
             className="cursor-pointer w-8 h-8 md:w-16 md:h-16"
           />
-          Paintings
+          Paints
         </div>
         <div className="flex flex-col items-center my-4 md:my-12 md:text-base text-sm text-center">
           <img
